@@ -1,0 +1,137 @@
+.container{
+    width: 1260px;
+    width: 90%;
+    
+    margin: 0 auto;
+}
+
+header a{
+    color: black;
+    text-decoration: none;
+    font-weight: 800;
+    font-family: 'Roboto', sans-serif;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cabecalho ul{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.cabecalho nav{
+    width: 70%;
+}
+.login{
+    width: 106px;
+    height: 47px;
+    left: 1231px;
+    margin-top: -13px;
+    background: #00DAF8;
+    border: 1px solid #00DAF8;
+    box-sizing: border-box;
+    border-radius: 50px;
+}
+
+.login p{
+    margin: 12px 9px 6px 6px;
+    padding-left: 5px;
+    text-decoration: none;
+}
+.login a{
+    color: #fff;
+    font-weight: 800;
+    font-family: 'Roboto', sans-serif;
+}
+
+.tabela{
+    width: 90%;
+    margin: auto;
+    flex-direction: column;
+}
+
+.identificador {
+    border: 1px solid black;
+    padding: 20px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    
+}
+.identificar{
+    width: 500px;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+}
+footer{
+    height: 200px;
+    display: flex;
+}
+.icones{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 120px;
+}
+.icones img{
+    width: 30px;
+    height: 30px;
+}
+.center{
+    margin: auto;
+    padding-left: 80px;
+}
+.center img{
+    margin: auto;
+    padding-left: 80px;
+}
+.center p{
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    color: #6A6A6A;
+    font-weight: 700;
+    padding: 10px;
+}
+.news{
+    width: 400px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.news input{
+    width: 200px;
+    border-radius: 20px;
+    margin-left: -130px;
+}
+.news p{
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #A0A0A0;
+    margin-left: -120px;
+}
+.gui1{
+    padding: 8px;
+    margin-bottom: 20px;
+}
+.Cadastro{
+    margin: auto;
+    margin-left: 150px;
+}
+.Cadastro h2{
+    margin-left: 250px;
+    margin-bottom: 5px;
+}

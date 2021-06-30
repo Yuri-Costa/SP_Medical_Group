@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    width: 1260px;
+}
+
+.container{
+    width: 1260px;
+    width: 90%;
+    
+    margin: 0 auto;
+}
+
+header a{
+    color: black;
+    text-decoration: none;
+    font-weight: 800;
+    font-family: 'Roboto', sans-serif;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cabecalho ul{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.cabecalho nav{
+    width: 70%;
+}
+.login{
+    width: 106px;
+    height: 47px;
+    left: 1231px;
+    margin-top: -13px;
+    background: #00DAF8;
+    border: 1px solid #00DAF8;
+    box-sizing: border-box;
+    border-radius: 50px;
+}
+
+.login p{
+    margin: 12px 9px 6px 6px;
+    padding-left: 5px;
+    text-decoration: none;
+}
+.login a{
+    color: #fff;
+    font-weight: 800;
+    font-family: 'Roboto', sans-serif;
+}
+.email{
+    margin-left: 480px;
+}
+.email img{
+    margin-left: 85px;
+}
+.email1{
+    padding: 10px;
+    border-radius: 15px;
+    margin-right: 5px;
+}
+.senha1{
+    padding: 10px;
+    border-radius: 15px;
+    margin-right: 5px;
+}
+.btnlogin{
+    padding: 10px;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+
+
+
+
+
+
+
+footer{
+    height: 200px;
+    display: flex;
+}
+.icones{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 120px;
+}
+.icones img{
+    width: 30px;
+    height: 30px;
+}
+.center{
+    margin: auto;
+    padding-left: 80px;
+}
+.center img{
+    margin: auto;
+    padding-left: 80px;
+}
+.center p{
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    color: #6A6A6A;
+    font-weight: 700;
+    padding: 10px;
+}
+.news{
+    width: 400px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.news input{
+    width: 200px;
+    border-radius: 20px;
+    margin-left: -130px;
+}
+.news p{
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #A0A0A0;
+    margin-left: -120px;
+}
+.linha{
+    margin-top: 30px;
+    width: 100%;
+    border: 0.1px solid rgb(211, 211, 211);
+}

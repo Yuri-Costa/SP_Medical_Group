@@ -1,0 +1,16 @@
+.Cadastrar{
+    width: 300px;
+    flex-direction: column;
+    
+}
+
+.gui2{
+    display: flex;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 20px;
+    margin-left: 10px;
+    margin-bottom: 7px;
+}
+ 

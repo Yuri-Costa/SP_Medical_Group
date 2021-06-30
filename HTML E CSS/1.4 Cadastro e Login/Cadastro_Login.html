@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Cadastro.css">
+</head>
+
+<body>
+    <header>
+        <div class="container cabecalho">
+            <div>
+                <img src="img/Branco Ícone de Hospital Médico Logotipo 1.png" alt="" srcset="">
+            </div>
+            <nav id="menu">
+                <ul>
+                    <li><a href="#" title="voltar para a página inicial">INÍCIO</a></li>
+                    <li><a href="#" title="Ir até a sessão de história das partidas">HISTÓRIA</a></li>
+                    <li><a href="#" title="Ir até a sessão de localização das unidades do SP Medical Group">LOCALIZAÇÃO</a></li>
+                    <li><a href="#" title="Ir até a sessão de especialidades">ESPECIALIDADES</a></li>
+                    <li><a href="#" title="Ir até a sessão de PLANOS">PLANOS</a></li>
+                    <li><a href="#"><i class="fas fa-user-alt"></i> LOGIN</a></li>
+                    <div class="login">
+                        <li><p><a href="#">CONTATOS</a></p></li>
+                    </div>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <div class="linha"></div>
+    <div class="cont">
+        <div class="form sign-in">
+            <h2>BEM VINDO</h2>
+            <label>
+                <span>Email</span>
+                <input type="email" />
+            </label>
+            <label>
+                <span>Senha</span>
+                <input type="password" />
+            </label>
+            <p class="forgot-pass">Esqueceu a Senha ?</p>
+            <button type="button" class="submit">Entrar</button>
+            <button type="button" class="fb-btn">Entrar com <span>facebook</span></button>
+        </div>
+        <div class="sub-cont">
+            <div class="img">
+                <div class="img__text m--up">
+                    <h2>NOVO AQUI ?</h2>
+                    <p>Entre e descubra as melhores clinicas do Brasil</p>
+                </div>
+                <div class="img__text m--in">
+                    <h2>JA POSSUI CONTA ?</h2>
+                    <p>Se você já tiver uma conta, faça o login e venha cuidar o melhor da sua saúde</p>
+                </div>
+                <div class="img__btn">
+                    <span class="m--up">Cadastre-se</span>
+                    <span class="m--in">Entrar</span>
+                </div>
+            </div>
+            <div class="form sign-up">
+                <h2><img src="./img/Branco Ícone de Hospital Médico Logotipo 1.png" alt="" srcset=""></h2>
+                <label>
+                    <span>Nome</span>
+                    <input type="text" />
+                </label>
+                <label>
+                    <span>Email</span>
+                    <input type="email" />
+                </label>
+                <label>
+                    <span>Senha</span>
+                    <input type="password" />
+                </label>
+                <button type="button" class="submit">Entrar</button>
+                <button type="button" class="fb-btn">Conectar-se com <span>facebook</span></button>
+            </div>
+        </div>
+    </div>
+    <div class="linha"></div>
+    <footer>
+        <div class="icones">
+            <img src="./img/instagram.png" alt="">
+            <img src="./img/facebook.png" alt="">
+            <img src="./img/twitter.png" alt="">
+            <img src="./img/youtube.png" alt="">
+        </div>
+        <div class="center">
+            <img src="./img/Branco Ícone de Hospital Médico Logotipo 1.png" alt="" srcset="">
+            <p>© Copyright 2021 Guilherme André, Senai de Informatica.</p>
+        </div>
+        <div class="news">
+            <p>RECEBA NOSSOS EMAILS</p>
+            <input type="email" name="Email" id="news">
+        </div>
+    </footer>
+
+    <script>
+        document.querySelector('.img__btn').addEventListener('click', function() {
+            document.querySelector('.cont').classList.toggle('s--signup');
+        });
+    </script>
+</body>
+
+</html>

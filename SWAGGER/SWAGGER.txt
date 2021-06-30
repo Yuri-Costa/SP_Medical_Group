@@ -1,0 +1,10 @@
+SWAGGER FEITO E DISPONIVEL NO SEGUINTE LINK
+
+-> EXECUTA A API
+
+-> NAVEGADOR ABRE
+
+-> ADICIONA /swagger NA URL
+
+http://localhost:5000/swagger
+

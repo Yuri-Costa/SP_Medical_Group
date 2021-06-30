@@ -1,0 +1,24 @@
+.Cadastro{
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.Cadastro h2{
+    margin-left: 385px;
+}
+
+.formulario input{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    margin: 10px;
+    margin-top: 20px;
+}
+.formulario{
+    margin-left: 400px;
+}
+.formulario button{
+    margin-left: 15px;
+    padding: 10px;
+}

@@ -1,0 +1,33 @@
+.gerenciador{
+    width: 150px;
+    height: 150px;
+    border: solid 1px black;
+    margin: 10px;
+}
+.gerenciar{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 100px;
+}
+.gerenciador img{
+    width: 50%;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+.gerenciador p{
+    margin-left: 10px;
+    font-weight: bold;
+}
+.gerenciador a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    list-style-type: none;
+}
+.gerenciador a:hover{
+    color: blue;
+}
+.gerenciador img:hover{
+    width: 55%;
+}
