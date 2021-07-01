@@ -47,7 +47,8 @@ VALUES				 (1, 'ligia@gmail.com', 'G123', '19831013 10:34:09 AM', '435225435', 9
 					 (1, 'mariana@outlook.com', 'R810', '20180503 00:00:00 AM', '545662668', 940038933, 13771913039, 'R Sao Antonio, 232 - Vila Universal, Barueri - SP, 06407-140'),
 					 (2, 'ricardo.lemos@spmedicalgroup.com.br', 'M234','19781010 00:00:00 AM', '322543007', 987656543, 83556944057, 'Av. Paulista, 1578 - Bela paisagem, São Paulo - SP, 01310-200'),
 					 (2, 'roberto.possarle@spmedicalgroup.com.br', 'E400', '19851030 00:00:00 AM', '241165253', 972084453, 56839338002, 'Av. Ibirapuera - são Pedro, 2927,  São Paulo - SP, 04029-200'),
-					 (2, 'helena.souza@spmedicalgroup.com.br', 'Y142', '19750827 00:00:00 AM', '443662225', 40028922, 94332224765, 'R. Vitória, 120 - Av Sao Jorge, Itaquera - SP, 06402-030')
+					 (2, 'helena.souza@spmedicalgroup.com.br', 'Y142', '19750827 00:00:00 AM', '443662225', 40028922, 94332224765, 'R. Vitória, 120 - Av Sao Jorge, Itaquera - SP, 06402-030'),
+					 (3, 'yuri@adm.con', 'yuri01', '193434827 00:00:00 AM', '4443662225', 40000922, 00000224765, 'R. Vria, 120 - Av Sao Jorge, Itaquá - SP, 06402-030')
 
 INSERT INTO Medicos (IdEspecialidade, IdUsuario, IdClinica, Nome, Crm)
 VALUES				(2, 8, 1, 'Ricardo Lemos', 54356),
