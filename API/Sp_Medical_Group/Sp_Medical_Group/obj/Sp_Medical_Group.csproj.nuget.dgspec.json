@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\34884566840\\Desktop\\SP_Medical_Group\\API\\Sp_Medical_Group\\Sp_Medical_Group\\Sp_Medical_Group.csproj": {}
+    "C:\\Users\\55119\\Desktop\\sp\\SP_Medical_Group\\API\\Sp_Medical_Group\\Sp_Medical_Group\\Sp_Medical_Group.csproj": {}
   },
   "projects": {
-    "C:\\Users\\34884566840\\Desktop\\SP_Medical_Group\\API\\Sp_Medical_Group\\Sp_Medical_Group\\Sp_Medical_Group.csproj": {
+    "C:\\Users\\55119\\Desktop\\sp\\SP_Medical_Group\\API\\Sp_Medical_Group\\Sp_Medical_Group\\Sp_Medical_Group.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\34884566840\\Desktop\\SP_Medical_Group\\API\\Sp_Medical_Group\\Sp_Medical_Group\\Sp_Medical_Group.csproj",
+        "projectUniqueName": "C:\\Users\\55119\\Desktop\\sp\\SP_Medical_Group\\API\\Sp_Medical_Group\\Sp_Medical_Group\\Sp_Medical_Group.csproj",
         "projectName": "Sp_Medical_Group",
-        "projectPath": "C:\\Users\\34884566840\\Desktop\\SP_Medical_Group\\API\\Sp_Medical_Group\\Sp_Medical_Group\\Sp_Medical_Group.csproj",
-        "packagesPath": "C:\\Users\\34884566840\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\34884566840\\Desktop\\SP_Medical_Group\\API\\Sp_Medical_Group\\Sp_Medical_Group\\obj\\",
+        "projectPath": "C:\\Users\\55119\\Desktop\\sp\\SP_Medical_Group\\API\\Sp_Medical_Group\\Sp_Medical_Group\\Sp_Medical_Group.csproj",
+        "packagesPath": "C:\\Users\\55119\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\55119\\Desktop\\sp\\SP_Medical_Group\\API\\Sp_Medical_Group\\Sp_Medical_Group\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\34884566840\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\55119\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
